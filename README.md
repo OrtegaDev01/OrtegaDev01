@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
 
-![Ortega's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=tokyonight&locate=pt-br) 
+![Ortega's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=tokyonight&locate=pt-br)
 
 ### Tecnologias que utilizo
 <div style="displai: inline_block">

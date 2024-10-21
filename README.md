@@ -15,7 +15,7 @@
 </div>
 
 
-![Snake animation](https://github.com/OrtegaDev01/OrtegaDev01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OrtegaDev01/blob/output/github-contribution-grid-snake.svg)
 
 
 

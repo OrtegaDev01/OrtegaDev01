@@ -6,7 +6,7 @@
 
 <div>
 <img height="165em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=dracula">
-<img heigh="160em"  width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaDev01&layout=compact&theme=dracula">
+<img heigh="166em"  width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaDev01&layout=compact&theme=dracula">
 
 </div>
 

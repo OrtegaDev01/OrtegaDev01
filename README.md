@@ -1,8 +1,7 @@
 ## oi eu sou o Felipe Ortega
 - 🎲 Atualmente faço curso de  técnico em  informática
 - 🧩 Estou Estudando Html e Css
-- 🧑‍💻 Tenho 17 anos
-- 🎩 Minhas  próximas linguagens a serem aprendidas são Javascript e Python
+- 🎩 Desejo aprender Python e JavaScript
 
 <div>
 <img height="168em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=dracula">

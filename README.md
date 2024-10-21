@@ -5,7 +5,7 @@
 - 🎩 Minhas  próximas linguagens a serem aprendidas são Javascript e Python
 
 <div>
-<img height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=dracula">
+<img height="180em"  width="45%"  src="https://github-readme-stats.vercel.app/api?username=OrtegaDev01&show_icons=true&theme=dracula">
 <img heigh="180em"  width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrtegaDev01&layout=compact&theme=dracula">
 </div>
 
